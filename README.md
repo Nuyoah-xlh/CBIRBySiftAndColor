@@ -8,3 +8,5 @@ pip install -r requirements.txt
 python app.py
 ~~~
 
+
+使用VGG16实现的更高效简洁的图像检索技术：https://github.com/Nuyoah-xlh/CbirByVgg
